@@ -10,7 +10,7 @@ package tugasKelPekan13;
  */
 
 public class SavingsAccount {
-    private float balance = 50;
+    private float balance = 1000;
 
     /**
      * method withdraw / pengambilan uang
